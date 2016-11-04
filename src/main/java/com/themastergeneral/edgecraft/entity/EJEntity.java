@@ -1,6 +1,5 @@
 package com.themastergeneral.edgecraft.entity;
 
-import com.sun.istack.internal.Nullable;
 import com.themastergeneral.edgecraft.Main;
 
 import net.minecraft.util.ResourceLocation;
@@ -14,7 +13,6 @@ public class EJEntity extends NormalEntity
 		super(worldIn);
 	}
     @Override
-    @Nullable
     protected ResourceLocation getLootTable() 
     {
         return LOOT;

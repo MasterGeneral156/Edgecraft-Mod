@@ -1,7 +1,5 @@
 package com.themastergeneral.edgecraft.entity;
 
-import javax.annotation.Nullable;
-
 import net.minecraft.enchantment.EnchantmentHelper;
 import net.minecraft.entity.Entity;
 import net.minecraft.entity.EntityCreature;
