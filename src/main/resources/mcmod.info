@@ -1,16 +1,16 @@
 [
 {
-  "modid": "enderfuge",
-  "name": "Enderfuge",
-  "description": "Increased output from smelting vanilla armor/weapons.",
-  "version": "1.4.3",
-  "mcversion": "1.12.2",
-  "url": "https://minecraft.curseforge.com/projects/enderfuge",
-  "updateUrl": "https://raw.githubusercontent.com/MasterGeneral156/Version/master/Enderfuge.json",
+  "modid": "edgecraft",
+  "name": "Edgecraft Mod",
+  "description": "Adds a lot of random things pertaining to Edgecraft such as entities for each person inside of Edgecraft, and their special items.",
+  "version": "0.0.1",
+  "mcversion": "1.9.4",
+  "url": "https://minecraft.curseforge.com/projects/edgecraft-mod/",
+  "updateUrl": "https://dl.dropboxusercontent.com/u/72961306/TMG%20Assets/Update%20JSONs/Edgecraft.json",
   "authorList": ["TheMasterGeneral"],
-  "credits": "That one reddit thread that suggested this for vanilla. Sorry can't remember your name.",
-  "logoFile": "assets/enderfuge/textures/logo.png",
+  "credits": "",
+  "logoFile": "",
   "screenshots": [],
-  "dependencies": ["ctdcore"]
+  "dependencies": []
 }
 ]
